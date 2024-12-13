@@ -5,11 +5,11 @@ Developed a sales dashboard for Nike using Tableau
 - <a href="https://github.com/likitha0606/Nike_sales_analisys/blob/main/Sheet1%20(Nike%20Dataset)_Sheet1.csv">view dataset</a>
 
 ## Key Performance Indicators (KPIs)
--State wise total sales
--Total sales by sales method
--Units sold and total sales trend
--Retailer Wise total sales
--Product wise unit sold 
+State wise total sales
+Total sales by sales method
+Units sold and total sales trend
+Retailer Wise total sales
+Product wise unit sold 
 
 
 ## HERE IT IS 
