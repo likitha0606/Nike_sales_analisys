@@ -10,7 +10,7 @@ Developed a sales dashboard for Nike using Tableau
 -Units sold and total sales trend
 -Retailer Wise total sales
 -Product wise unit sold 
-![image](https://github.com/user-attachments/assets/6c928755-9107-4c57-931d-0880c4d09bdd)
+
 
 ## HERE IT IS 
 ![Screenshot (10)](https://github.com/user-attachments/assets/9d571ac3-f568-40af-a26e-ae48a1e22ebd)
